@@ -3,7 +3,7 @@ Deobfuscated DemonHunter Exploit Kit
 
 **Legal disclaimer**: I did not write the source code, merely made it readable.
 I discourage the use of the software contained within this repository. Any usage
-will be your own responsibility. I cannot, and should not be held reliable for your
+will be your own responsibility. I cannot, and will not be held liable for your
 actions.
 
 ### Directories:
